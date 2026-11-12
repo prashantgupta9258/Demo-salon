@@ -1,0 +1,7 @@
+{
+  "name": "Demo salon",
+  "description": "Demo salon - Premium hair salon, advanced skin treatments, and royal bridal packages in Agra.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
